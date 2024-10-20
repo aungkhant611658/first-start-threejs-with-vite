@@ -11,3 +11,7 @@
    ```sh
    npm run dev
    ```
+
+3. Preview
+
+   ![Preview](public/images/preview_01.png)
